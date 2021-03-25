@@ -1,7 +1,6 @@
 <?php
 
 use Phalcon\Db\Adapter\Pdo\Mysql;
-use Phalcon\Db\Enum;
 use Phalcon\Mvc\Micro;
 use Phalcon\Exception as PhalconException;
 
